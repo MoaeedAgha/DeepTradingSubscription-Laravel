@@ -1,0 +1,2 @@
+# deeptrading.ai
+DeepTrading.ai
